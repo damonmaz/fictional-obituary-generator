@@ -1,6 +1,8 @@
 # DISCLAIMER
 This was the final project for ENSF 381 at the University of Calgary.
 Project partner was Nicholas Garcia (https://github.com/Kulaway) 
+
+node_modules folder has not been uploaded to github, but is required to run webpage.
 ## This project scored 100%, and course was completed with an A+
 
 # ASSIGNMENT GUIDELINES
